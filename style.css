@@ -35,3 +35,18 @@ a {
 .navbar img {
     width: 40px;
 }
+
+.filmes {
+
+    font-size: 50px;
+}
+
+.listafilmes{
+    list-style-type:none;    
+    display: flex;
+    justify-content: center;
+}
+
+.listafilmes a img {
+    width: 400px;    
+}
