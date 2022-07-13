@@ -73,11 +73,23 @@ a {
 .info {
 
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
 
 }
 
 .info {
 
     list-style-type: none;
+}
+
+.cont {
+
+    text-align: center;
+    font-size: 30px;
+}
+
+.cont {
+
+    list-style-type: none;
+
 }
